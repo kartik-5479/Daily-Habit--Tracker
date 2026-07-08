@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+
+# Local runtime data. Streamlit Community Cloud will create these at runtime.
+database/*.sqlite
+database/*.sqlite-journal
+database.sqlite
+database.sqlite-journal
+exports/*
+assets/profiles/*
